@@ -2,6 +2,8 @@
 ## how to create a repository
 - git init
 - gh repo create
+## how to open pull$request
+- gh pr create --base dev --fill
 ---
 ## grammar
  final int a = 1;
